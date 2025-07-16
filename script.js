@@ -9,6 +9,10 @@ const genres = {
     "https://soundcloud.com/rorynearly20s/12-14a",
     "https://soundcloud.com/rorynearly20s/various-types-of-ads",
     "https://soundcloud.com/tokyopill/ethereal"
+  ],
+  Quran: [
+     "https://soundcloud.com/farrukh-abbas-4/surah-rehman-qari-abdul-basit",
+     "https://soundcloud.com/azmat-ali-shah-159538358/sets/surah-mulk-sudais"
   ]
 };
 
@@ -40,15 +44,12 @@ function loadNextTrack() {
 }
 
 window.addEventListener("DOMContentLoaded", () => {
-  // Initial load
   loadTrack(currentGenre, currentIndex);
 
-  // Dropdown change
   genreSelect.addEventListener("change", () => {
     const selected = genreSelect.value;
-    loadTrack(selected, 0); // start from first track
+    loadTrack(selected, 0); 
   });
 
-  // Next button
   nextBtn.addEventListener("click", loadNextTrack);
 });

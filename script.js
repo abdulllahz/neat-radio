@@ -1,19 +1,19 @@
 const genres = {
   lofi: [
+    "https://soundcloud.com/lofi_girl/summer-in-rio",
     "https://soundcloud.com/chillhopdotcom/my-steeze",
     "https://soundcloud.com/chillhopdotcom/driving-6",
     "https://soundcloud.com/chillhopdotcom/dry-leaves-ft-9ick-3",
-    "https://soundcloud.com/chillhopdotcom/spykids",
-    "https://soundcloud.com/lofi_girl/summer-in-rio"
+    "https://soundcloud.com/chillhopdotcom/spykids"
   ],
   breakcore: [
+    "https://soundcloud.com/tokyopill/ethereal",
     "https://soundcloud.com/rorynearly20s/12-14a",
-    "https://soundcloud.com/rorynearly20s/various-types-of-ads",
-    "https://soundcloud.com/tokyopill/ethereal"
+    "https://soundcloud.com/rorynearly20s/various-types-of-ads"
   ],
   Quran: [
-     "https://soundcloud.com/farrukh-abbas-4/surah-rehman-qari-abdul-basit",
-     "https://soundcloud.com/azmat-ali-shah-159538358/sets/surah-mulk-sudais"
+     "https://soundcloud.com/azmat-ali-shah-159538358/sets/surah-mulk-sudais",
+     "https://soundcloud.com/farrukh-abbas-4/surah-rehman-qari-abdul-basit"
   ]
 };
 

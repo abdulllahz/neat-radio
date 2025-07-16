@@ -3,7 +3,8 @@ const genres = {
     "https://soundcloud.com/chillhopdotcom/my-steeze",
     "https://soundcloud.com/chillhopdotcom/driving-6",
     "https://soundcloud.com/chillhopdotcom/dry-leaves-ft-9ick-3",
-    "https://soundcloud.com/chillhopdotcom/spykids"
+    "https://soundcloud.com/chillhopdotcom/spykids",
+    "https://soundcloud.com/lofi_girl/summer-in-rio"
   ],
   breakcore: [
     "https://soundcloud.com/rorynearly20s/12-14a",
